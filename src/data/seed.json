@@ -1,0 +1,1192 @@
+{
+ "profiles": [
+  {
+   "id": "00000000-0000-4000-8000-000000000001",
+   "alias": "sim_01",
+   "anio": 1,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1983
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000002",
+   "alias": "sim_02",
+   "anio": 1,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 2121
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000003",
+   "alias": "sim_03",
+   "anio": 1,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1711
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000004",
+   "alias": "sim_04",
+   "anio": 1,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 2977
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000005",
+   "alias": "sim_05",
+   "anio": 2,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 2311
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000006",
+   "alias": "sim_06",
+   "anio": 2,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 2480
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000007",
+   "alias": "sim_07",
+   "anio": 2,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1817
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000008",
+   "alias": "sim_08",
+   "anio": 3,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1684
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000009",
+   "alias": "sim_09",
+   "anio": 3,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1636
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000010",
+   "alias": "sim_10",
+   "anio": 3,
+   "especialidad": null,
+   "rol": "estudiante",
+   "created_h": 1540
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000011",
+   "alias": "sim_11",
+   "anio": 4,
+   "especialidad": "Electromecánica",
+   "rol": "estudiante",
+   "created_h": 2322
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000012",
+   "alias": "sim_12",
+   "anio": 4,
+   "especialidad": "Programación",
+   "rol": "estudiante",
+   "created_h": 2625
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000013",
+   "alias": "sim_13",
+   "anio": 5,
+   "especialidad": "Electrónica",
+   "rol": "estudiante",
+   "created_h": 2092
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000014",
+   "alias": "sim_14",
+   "anio": 5,
+   "especialidad": "Electromecánica",
+   "rol": "estudiante",
+   "created_h": 1620
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000015",
+   "alias": "sim_15",
+   "anio": 6,
+   "especialidad": "Programación",
+   "rol": "estudiante",
+   "created_h": 1954
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000016",
+   "alias": "sim_16",
+   "anio": 6,
+   "especialidad": "Electrónica",
+   "rol": "estudiante",
+   "created_h": 2565
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000017",
+   "alias": "sim_17",
+   "anio": 7,
+   "especialidad": "Electromecánica",
+   "rol": "estudiante",
+   "created_h": 2599
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000018",
+   "alias": "sim_18",
+   "anio": 7,
+   "especialidad": "Programación",
+   "rol": "estudiante",
+   "created_h": 2237
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000019",
+   "alias": "sim_19",
+   "anio": 7,
+   "especialidad": "Electrónica",
+   "rol": "estudiante",
+   "created_h": 2066
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000020",
+   "alias": "mod_01",
+   "anio": 5,
+   "especialidad": "Electrónica",
+   "rol": "moderador",
+   "created_h": 1717
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000021",
+   "alias": "mod_02",
+   "anio": 6,
+   "especialidad": "Electromecánica",
+   "rol": "moderador",
+   "created_h": 1939
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000022",
+   "alias": "mod_03",
+   "anio": 5,
+   "especialidad": "Programación",
+   "rol": "moderador",
+   "created_h": 2812
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000023",
+   "alias": "mod_04",
+   "anio": 6,
+   "especialidad": "Electrónica",
+   "rol": "moderador",
+   "created_h": 2056
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000024",
+   "alias": "mod_05",
+   "anio": 5,
+   "especialidad": "Electromecánica",
+   "rol": "moderador",
+   "created_h": 1837
+  },
+  {
+   "id": "00000000-0000-4000-8000-000000000025",
+   "alias": "admin_sim",
+   "anio": 7,
+   "especialidad": "Programación",
+   "rol": "admin",
+   "created_h": 3200
+  }
+ ],
+ "posts": [
+  {
+   "id": 1,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Apuntes de árboles binarios (Programación 3)",
+   "cuerpo": "Subo el resumen de la clase: recorridos inorden, preorden y postorden con ejemplos en JavaScript.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 623
+  },
+  {
+   "id": 2,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000012",
+   "autor_alias": "sim_12",
+   "titulo": "¿Alguien tiene el TP de bases de datos?",
+   "cuerpo": "Me falta la consigna del trabajo práctico de consultas SQL. ¿Me la pasan por acá?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 207
+  },
+  {
+   "id": 3,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "titulo": "Error en Vue: Cannot read properties of undefined",
+   "cuerpo": "Me aparece al renderizar una lista antes de que lleguen los datos. ¿Se soluciona con v-if?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 824
+  },
+  {
+   "id": 4,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000017",
+   "autor_alias": "sim_17",
+   "titulo": "Editor recomendado para practicar C++",
+   "cuerpo": "¿Qué editor liviano usan en las netbooks de la escuela? El que tengo anda muy lento.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 580
+  },
+  {
+   "id": 5,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000006",
+   "autor_alias": "sim_06",
+   "titulo": "Grupo de estudio para el parcial de algoritmos",
+   "cuerpo": "Armamos un grupo los martes en la biblioteca. Pueden sumarse de cualquier división.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 536
+  },
+  {
+   "id": 6,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000016",
+   "autor_alias": "sim_16",
+   "titulo": "Guía de Git para el proyecto integrador",
+   "cuerpo": "Dejo una guía corta con commit, branch y merge, pensada para trabajar en equipo.",
+   "estado": "borrado",
+   "borrado_por": "autor",
+   "created_h": 603
+  },
+  {
+   "id": 7,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000003",
+   "autor_alias": "sim_03",
+   "titulo": "¿Cómo conectar un formulario con Supabase?",
+   "cuerpo": "Ya tengo el formulario en Vue y necesito guardar los datos. ¿Por dónde empiezo?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1151
+  },
+  {
+   "id": 8,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Ejercicios resueltos de recursividad",
+   "cuerpo": "Hice la resolución de los ejercicios 1 al 8 de la guía. Revisen si ven errores.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 470
+  },
+  {
+   "id": 9,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Se cayó la red del laboratorio",
+   "cuerpo": "Desde la primera hora no conecta ninguna máquina del laboratorio 2. ¿Pasa lo mismo en otras aulas?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1202
+  },
+  {
+   "id": 10,
+   "board": "prog",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Bibliotecas de gráficos para JavaScript",
+   "cuerpo": "Busco una librería simple para hacer gráficos de barras en la feria de ciencias.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1071
+  },
+  {
+   "id": 11,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000007",
+   "autor_alias": "sim_07",
+   "titulo": "Aviso: taller cerrado el jueves",
+   "cuerpo": "Por tareas de mantenimiento el taller no abre el jueves. Se retoma el viernes en el horario habitual.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 877
+  },
+  {
+   "id": 12,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000014",
+   "autor_alias": "sim_14",
+   "titulo": "Se perdió una llave inglesa de 14 mm",
+   "cuerpo": "La dejé en el banco 3 después de la práctica. Si la encuentran avisen por acá.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1256
+  },
+  {
+   "id": 13,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Guía de soldadura con estaño",
+   "cuerpo": "Resumen con temperaturas, tipos de punta y errores comunes. Pensado para primer año de taller.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 912
+  },
+  {
+   "id": 14,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000015",
+   "autor_alias": "sim_15",
+   "titulo": "¿Quién tiene el plano del proyecto de tercer año?",
+   "cuerpo": "Necesito la hoja 2 del plano para terminar el soporte. La mía se mojó.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 360
+  },
+  {
+   "id": 15,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000008",
+   "autor_alias": "sim_08",
+   "titulo": "Se necesitan voluntarios para ordenar el pañol",
+   "cuerpo": "Sábado a la mañana. Se entrega certificado de horas solidarias.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 654
+  },
+  {
+   "id": 16,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000009",
+   "autor_alias": "sim_09",
+   "titulo": "Normas de seguridad: lentes obligatorios",
+   "cuerpo": "Recordatorio: no se puede usar ninguna máquina sin lentes y calzado cerrado.",
+   "estado": "borrado",
+   "borrado_por": "autor",
+   "created_h": 118
+  },
+  {
+   "id": 17,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000003",
+   "autor_alias": "sim_03",
+   "titulo": "Sobran resistencias de 220 ohm",
+   "cuerpo": "Tengo una bolsa de resistencias de más. Las dejo en el pañol para quien las necesite.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 124
+  },
+  {
+   "id": 18,
+   "board": "taller",
+   "author_id": "00000000-0000-4000-8000-000000000015",
+   "autor_alias": "sim_15",
+   "titulo": "Torno fuera de servicio",
+   "cuerpo": "El torno 2 tiene una falla en el husillo. No usarlo hasta que lo revisen.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 604
+  },
+  {
+   "id": 19,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000017",
+   "autor_alias": "sim_17",
+   "titulo": "Vendo calculadora científica",
+   "cuerpo": "Casi sin uso, con funda. Se puede ver en el recreo largo. Consultar precio por acá.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1124
+  },
+  {
+   "id": 20,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000006",
+   "autor_alias": "sim_06",
+   "titulo": "Compro tester digital",
+   "cuerpo": "Busco un tester usado en buen estado para electrónica. Pago razonable.",
+   "estado": "borrado",
+   "borrado_por": "moderacion",
+   "created_h": 732
+  },
+  {
+   "id": 21,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000005",
+   "autor_alias": "sim_05",
+   "titulo": "Vendo apuntes encuadernados de Física",
+   "cuerpo": "Tengo los apuntes completos del año pasado, anillados y ordenados por unidad.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 430
+  },
+  {
+   "id": 22,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000019",
+   "autor_alias": "sim_19",
+   "titulo": "Vendo placa Arduino con cables",
+   "cuerpo": "Incluye cables y protoboard. La usé en un solo proyecto. Cambio por otra cosa también.",
+   "estado": "borrado",
+   "borrado_por": "moderacion",
+   "created_h": 875
+  },
+  {
+   "id": 23,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000015",
+   "autor_alias": "sim_15",
+   "titulo": "Busco mochila resistente",
+   "cuerpo": "Que tenga lugar para una netbook de 14 pulgadas. Acepto usada.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 933
+  },
+  {
+   "id": 24,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000009",
+   "autor_alias": "sim_09",
+   "titulo": "Vendo guardapolvo talle M",
+   "cuerpo": "Muy buen estado, lavado. Retiro por la escuela.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 406
+  },
+  {
+   "id": 25,
+   "board": "compraventa",
+   "author_id": "00000000-0000-4000-8000-000000000012",
+   "autor_alias": "sim_12",
+   "titulo": "Intercambio libros de matemática",
+   "cuerpo": "Cambio un libro de álgebra por uno de análisis. Misma editorial.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 922
+  },
+  {
+   "id": 26,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000019",
+   "autor_alias": "sim_19",
+   "titulo": "Muestra de proyectos técnicos: fecha y lugar",
+   "cuerpo": "Se hará en el patio cubierto. Cada curso debe confirmar su stand antes del viernes.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 686
+  },
+  {
+   "id": 27,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000018",
+   "autor_alias": "sim_18",
+   "titulo": "Torneo de fútbol interdivisión",
+   "cuerpo": "Inscripción por curso en la preceptoría. Los partidos son en los recreos largos.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 436
+  },
+  {
+   "id": 28,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "titulo": "Charla de egresados sobre trabajo en tecnología",
+   "cuerpo": "Participan tres egresados de distintas especialidades. Entrada libre.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 236
+  },
+  {
+   "id": 29,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000002",
+   "autor_alias": "sim_02",
+   "titulo": "Feria de ciencias: inscripción abierta",
+   "cuerpo": "Pueden presentarse proyectos individuales o grupales. Hay categorías por ciclo.",
+   "estado": "borrado",
+   "borrado_por": "autor",
+   "created_h": 498
+  },
+  {
+   "id": 30,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000009",
+   "autor_alias": "sim_09",
+   "titulo": "Maratón de programación escolar",
+   "cuerpo": "Equipos de tres. Se resuelven problemas en 3 horas. Traer netbook.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 1222
+  },
+  {
+   "id": 31,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000008",
+   "autor_alias": "sim_08",
+   "titulo": "Jornada de limpieza del patio",
+   "cuerpo": "Participan todos los cursos de la mañana. Traer guantes si tienen.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 420
+  },
+  {
+   "id": 32,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "titulo": "Acto del aniversario de la escuela",
+   "cuerpo": "Ensayo general el miércoles a la tarde. Participan 1° y 2° año.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 393
+  },
+  {
+   "id": 33,
+   "board": "eventos",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Visita a una planta industrial",
+   "cuerpo": "Para 6° y 7° año. Hay que entregar la autorización firmada.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 970
+  },
+  {
+   "id": 34,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000001",
+   "autor_alias": "sim_01",
+   "titulo": "¿Cuándo se entregan los boletines?",
+   "cuerpo": "¿Alguien sabe la fecha? En preceptoría no me supieron decir.",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 117
+  },
+  {
+   "id": 35,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000012",
+   "autor_alias": "sim_12",
+   "titulo": "¿Hay clases mañana?",
+   "cuerpo": "Escuché que cortan la luz en la zona. ¿Confirmaron algo?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 199
+  },
+  {
+   "id": 36,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000013",
+   "autor_alias": "sim_13",
+   "titulo": "Fechas de mesas de examen",
+   "cuerpo": "¿Dónde se publica el calendario de mesas de diciembre?",
+   "estado": "borrado",
+   "borrado_por": "moderacion",
+   "created_h": 699
+  },
+  {
+   "id": 37,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000001",
+   "autor_alias": "sim_01",
+   "titulo": "¿Cómo pido un certificado de alumno regular?",
+   "cuerpo": "Lo necesito para un trámite. ¿Se pide en secretaría o en preceptoría?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 691
+  },
+  {
+   "id": 38,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "titulo": "Horario del buffet",
+   "cuerpo": "¿Hasta qué hora atiende el buffet en el turno tarde?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 688
+  },
+  {
+   "id": 39,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000005",
+   "autor_alias": "sim_05",
+   "titulo": "Cambio de división: ¿se puede?",
+   "cuerpo": "Mi división tiene el taller a contraturno y me complica. ¿Hay forma de cambiar?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 870
+  },
+  {
+   "id": 40,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000016",
+   "autor_alias": "sim_16",
+   "titulo": "¿Quién es el docente asesor de la cooperativa?",
+   "cuerpo": "Quiero sumarme a la cooperativa y no sé con quién hablar.",
+   "estado": "borrado",
+   "borrado_por": "moderacion",
+   "created_h": 630
+  },
+  {
+   "id": 41,
+   "board": "consultas",
+   "author_id": "00000000-0000-4000-8000-000000000007",
+   "autor_alias": "sim_07",
+   "titulo": "Uso de celulares en clase",
+   "cuerpo": "¿Hay una regla general o cada profesor decide?",
+   "estado": "publicado",
+   "borrado_por": null,
+   "created_h": 939
+  }
+ ],
+ "comments": [
+  {
+   "id": 1,
+   "post_id": 23,
+   "author_id": "00000000-0000-4000-8000-000000000005",
+   "autor_alias": "sim_05",
+   "cuerpo": "Sirve, lo pruebo y cuento.",
+   "estado": "publicado",
+   "created_h": 835
+  },
+  {
+   "id": 2,
+   "post_id": 12,
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "cuerpo": "Lo vi en el pasillo, es para la semana próxima.",
+   "estado": "publicado",
+   "created_h": 1253
+  },
+  {
+   "id": 3,
+   "post_id": 28,
+   "author_id": "00000000-0000-4000-8000-000000000002",
+   "autor_alias": "sim_02",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 192
+  },
+  {
+   "id": 4,
+   "post_id": 28,
+   "author_id": "00000000-0000-4000-8000-000000000012",
+   "autor_alias": "sim_12",
+   "cuerpo": "Sirve, lo pruebo y cuento.",
+   "estado": "publicado",
+   "created_h": 89
+  },
+  {
+   "id": 5,
+   "post_id": 8,
+   "author_id": "00000000-0000-4000-8000-000000000015",
+   "autor_alias": "sim_15",
+   "cuerpo": "¿Podés subir una foto?",
+   "estado": "publicado",
+   "created_h": 361
+  },
+  {
+   "id": 6,
+   "post_id": 15,
+   "author_id": "00000000-0000-4000-8000-000000000004",
+   "autor_alias": "sim_04",
+   "cuerpo": "Gracias por compartirlo.",
+   "estado": "publicado",
+   "created_h": 638
+  },
+  {
+   "id": 7,
+   "post_id": 4,
+   "author_id": "00000000-0000-4000-8000-000000000006",
+   "autor_alias": "sim_06",
+   "cuerpo": "Lo vi en el pasillo, es para la semana próxima.",
+   "estado": "publicado",
+   "created_h": 406
+  },
+  {
+   "id": 8,
+   "post_id": 11,
+   "author_id": "00000000-0000-4000-8000-000000000002",
+   "autor_alias": "sim_02",
+   "cuerpo": "No me funcionó, ¿qué versión usás?",
+   "estado": "publicado",
+   "created_h": 751
+  },
+  {
+   "id": 9,
+   "post_id": 18,
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "cuerpo": "Gracias por compartirlo.",
+   "estado": "publicado",
+   "created_h": 572
+  },
+  {
+   "id": 10,
+   "post_id": 41,
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 772
+  },
+  {
+   "id": 11,
+   "post_id": 14,
+   "author_id": "00000000-0000-4000-8000-000000000016",
+   "autor_alias": "sim_16",
+   "cuerpo": "¿Podés subir una foto?",
+   "estado": "publicado",
+   "created_h": 298
+  },
+  {
+   "id": 12,
+   "post_id": 34,
+   "author_id": "00000000-0000-4000-8000-000000000014",
+   "autor_alias": "sim_14",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 112
+  },
+  {
+   "id": 13,
+   "post_id": 17,
+   "author_id": "00000000-0000-4000-8000-000000000014",
+   "autor_alias": "sim_14",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 92
+  },
+  {
+   "id": 14,
+   "post_id": 33,
+   "author_id": "00000000-0000-4000-8000-000000000007",
+   "autor_alias": "sim_07",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 921
+  },
+  {
+   "id": 15,
+   "post_id": 3,
+   "author_id": "00000000-0000-4000-8000-000000000002",
+   "autor_alias": "sim_02",
+   "cuerpo": "Sirve, lo pruebo y cuento.",
+   "estado": "publicado",
+   "created_h": 759
+  },
+  {
+   "id": 16,
+   "post_id": 18,
+   "author_id": "00000000-0000-4000-8000-000000000017",
+   "autor_alias": "sim_17",
+   "cuerpo": "¿Podés subir una foto?",
+   "estado": "publicado",
+   "created_h": 406
+  },
+  {
+   "id": 17,
+   "post_id": 17,
+   "author_id": "00000000-0000-4000-8000-000000000014",
+   "autor_alias": "sim_14",
+   "cuerpo": "Sirve, lo pruebo y cuento.",
+   "estado": "publicado",
+   "created_h": 105
+  },
+  {
+   "id": 18,
+   "post_id": 25,
+   "author_id": "00000000-0000-4000-8000-000000000002",
+   "autor_alias": "sim_02",
+   "cuerpo": "Creo que lo publican en la puerta de preceptoría.",
+   "estado": "publicado",
+   "created_h": 777
+  },
+  {
+   "id": 19,
+   "post_id": 9,
+   "author_id": "00000000-0000-4000-8000-000000000019",
+   "autor_alias": "sim_19",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 1034
+  },
+  {
+   "id": 20,
+   "post_id": 3,
+   "author_id": "00000000-0000-4000-8000-000000000016",
+   "autor_alias": "sim_16",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 800
+  },
+  {
+   "id": 21,
+   "post_id": 33,
+   "author_id": "00000000-0000-4000-8000-000000000007",
+   "autor_alias": "sim_07",
+   "cuerpo": "Lo vi en el pasillo, es para la semana próxima.",
+   "estado": "publicado",
+   "created_h": 927
+  },
+  {
+   "id": 22,
+   "post_id": 26,
+   "author_id": "00000000-0000-4000-8000-000000000010",
+   "autor_alias": "sim_10",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 521
+  },
+  {
+   "id": 23,
+   "post_id": 25,
+   "author_id": "00000000-0000-4000-8000-000000000014",
+   "autor_alias": "sim_14",
+   "cuerpo": "No me funcionó, ¿qué versión usás?",
+   "estado": "publicado",
+   "created_h": 866
+  },
+  {
+   "id": 24,
+   "post_id": 21,
+   "author_id": "00000000-0000-4000-8000-000000000011",
+   "autor_alias": "sim_11",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 302
+  },
+  {
+   "id": 25,
+   "post_id": 5,
+   "author_id": "00000000-0000-4000-8000-000000000009",
+   "autor_alias": "sim_09",
+   "cuerpo": "¿Podés subir una foto?",
+   "estado": "publicado",
+   "created_h": 524
+  },
+  {
+   "id": 26,
+   "post_id": 31,
+   "author_id": "00000000-0000-4000-8000-000000000005",
+   "autor_alias": "sim_05",
+   "cuerpo": "Sirve, lo pruebo y cuento.",
+   "estado": "publicado",
+   "created_h": 249
+  },
+  {
+   "id": 27,
+   "post_id": 4,
+   "author_id": "00000000-0000-4000-8000-000000000006",
+   "autor_alias": "sim_06",
+   "cuerpo": "Excelente aporte para el parcial.",
+   "estado": "publicado",
+   "created_h": 434
+  },
+  {
+   "id": 28,
+   "post_id": 37,
+   "author_id": "00000000-0000-4000-8000-000000000013",
+   "autor_alias": "sim_13",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 635
+  },
+  {
+   "id": 29,
+   "post_id": 1,
+   "author_id": "00000000-0000-4000-8000-000000000007",
+   "autor_alias": "sim_07",
+   "cuerpo": "Confirmado, pasó igual en mi curso.",
+   "estado": "publicado",
+   "created_h": 619
+  },
+  {
+   "id": 30,
+   "post_id": 19,
+   "author_id": "00000000-0000-4000-8000-000000000004",
+   "autor_alias": "sim_04",
+   "cuerpo": "Me interesa, ¿sigue disponible?",
+   "estado": "publicado",
+   "created_h": 926
+  }
+ ],
+ "reports": [
+  {
+   "id": 1,
+   "post_id": 19,
+   "reporter_id": "00000000-0000-4000-8000-000000000003",
+   "motivo": "spam",
+   "detalle": null,
+   "estado": "resuelto",
+   "created_h": 700
+  },
+  {
+   "id": 2,
+   "post_id": 20,
+   "reporter_id": "00000000-0000-4000-8000-000000000009",
+   "motivo": "compraventa_prohibida",
+   "detalle": "Pide pagos por fuera de la escuela.",
+   "estado": "resuelto",
+   "created_h": 640
+  },
+  {
+   "id": 3,
+   "post_id": 23,
+   "reporter_id": "00000000-0000-4000-8000-000000000012",
+   "motivo": "otro",
+   "detalle": "Publica datos personales de otra persona en el texto.",
+   "estado": "resuelto",
+   "created_h": 600
+  },
+  {
+   "id": 4,
+   "post_id": 4,
+   "reporter_id": "00000000-0000-4000-8000-000000000002",
+   "motivo": "contenido_inapropiado",
+   "detalle": null,
+   "estado": "resuelto",
+   "created_h": 560
+  },
+  {
+   "id": 5,
+   "post_id": 36,
+   "reporter_id": "00000000-0000-4000-8000-000000000014",
+   "motivo": "acoso",
+   "detalle": "Se burla de un docente con nombre y apellido.",
+   "estado": "resuelto",
+   "created_h": 500
+  },
+  {
+   "id": 6,
+   "post_id": 8,
+   "reporter_id": "00000000-0000-4000-8000-000000000005",
+   "motivo": "spam",
+   "detalle": null,
+   "estado": "resuelto",
+   "created_h": 450
+  },
+  {
+   "id": 7,
+   "post_id": 31,
+   "reporter_id": "00000000-0000-4000-8000-000000000017",
+   "motivo": "otro",
+   "detalle": "Incita a faltar a la maratón y insulta a organizadores.",
+   "estado": "resuelto",
+   "created_h": 400
+  },
+  {
+   "id": 8,
+   "post_id": 22,
+   "reporter_id": "00000000-0000-4000-8000-000000000007",
+   "motivo": "compraventa_prohibida",
+   "detalle": "Ofrece un artículo que no se puede vender en la escuela.",
+   "estado": "resuelto",
+   "created_h": 300
+  },
+  {
+   "id": 9,
+   "post_id": 40,
+   "reporter_id": "00000000-0000-4000-8000-000000000001",
+   "motivo": "acoso",
+   "detalle": "Insultos hacia otro estudiante en los comentarios.",
+   "estado": "resuelto",
+   "created_h": 120
+  },
+  {
+   "id": 10,
+   "post_id": 14,
+   "reporter_id": "00000000-0000-4000-8000-000000000011",
+   "motivo": "spam",
+   "detalle": null,
+   "estado": "resuelto",
+   "created_h": 90
+  },
+  {
+   "id": 11,
+   "post_id": 27,
+   "reporter_id": "00000000-0000-4000-8000-000000000004",
+   "motivo": "contenido_inapropiado",
+   "detalle": "Tiene una imagen que no corresponde.",
+   "estado": "pendiente",
+   "created_h": 70
+  },
+  {
+   "id": 12,
+   "post_id": 12,
+   "reporter_id": "00000000-0000-4000-8000-000000000016",
+   "motivo": "otro",
+   "detalle": "El aviso parece falso, el taller no cerró ese día.",
+   "estado": "pendiente",
+   "created_h": 40
+  },
+  {
+   "id": 13,
+   "post_id": 38,
+   "reporter_id": "00000000-0000-4000-8000-000000000008",
+   "motivo": "acoso",
+   "detalle": "Comentarios hirientes sobre un compañero.",
+   "estado": "pendiente",
+   "created_h": 30
+  },
+  {
+   "id": 14,
+   "post_id": 5,
+   "reporter_id": "00000000-0000-4000-8000-000000000010",
+   "motivo": "spam",
+   "detalle": null,
+   "estado": "pendiente",
+   "created_h": 20
+  },
+  {
+   "id": 15,
+   "post_id": 21,
+   "reporter_id": "00000000-0000-4000-8000-000000000013",
+   "motivo": "compraventa_prohibida",
+   "detalle": "Vende algo que no es suyo.",
+   "estado": "pendiente",
+   "created_h": 12
+  },
+  {
+   "id": 16,
+   "post_id": 33,
+   "reporter_id": "00000000-0000-4000-8000-000000000018",
+   "motivo": "contenido_inapropiado",
+   "detalle": null,
+   "estado": "pendiente",
+   "created_h": 5
+  }
+ ],
+ "resolutions": [
+  {
+   "id": 1,
+   "report_id": 1,
+   "moderator_id": "00000000-0000-4000-8000-000000000020",
+   "resultado": "descartado",
+   "nota": "Es una venta normal, cumple las reglas.",
+   "created_h": 690
+  },
+  {
+   "id": 2,
+   "report_id": 2,
+   "moderator_id": "00000000-0000-4000-8000-000000000021",
+   "resultado": "post_borrado",
+   "nota": "Se pedían pagos adelantados.",
+   "created_h": 630
+  },
+  {
+   "id": 3,
+   "report_id": 3,
+   "moderator_id": "00000000-0000-4000-8000-000000000022",
+   "resultado": "borrado_ban_3d",
+   "nota": "Datos personales de terceros.",
+   "created_h": 590
+  },
+  {
+   "id": 4,
+   "report_id": 4,
+   "moderator_id": "00000000-0000-4000-8000-000000000020",
+   "resultado": "descartado",
+   "nota": "El contenido es adecuado.",
+   "created_h": 555
+  },
+  {
+   "id": 5,
+   "report_id": 5,
+   "moderator_id": "00000000-0000-4000-8000-000000000023",
+   "resultado": "post_borrado",
+   "nota": "Referencias a una persona concreta.",
+   "created_h": 490
+  },
+  {
+   "id": 6,
+   "report_id": 6,
+   "moderator_id": "00000000-0000-4000-8000-000000000024",
+   "resultado": "descartado",
+   "nota": null,
+   "created_h": 440
+  },
+  {
+   "id": 7,
+   "report_id": 7,
+   "moderator_id": "00000000-0000-4000-8000-000000000021",
+   "resultado": "derivado_asesor",
+   "nota": "Se deriva para hablar con las partes.",
+   "created_h": 390
+  },
+  {
+   "id": 8,
+   "report_id": 8,
+   "moderator_id": "00000000-0000-4000-8000-000000000020",
+   "resultado": "post_borrado",
+   "nota": "Artículo no permitido.",
+   "created_h": 290
+  },
+  {
+   "id": 9,
+   "report_id": 9,
+   "moderator_id": "00000000-0000-4000-8000-000000000022",
+   "resultado": "borrado_ban_3d",
+   "nota": "Insultos reiterados.",
+   "created_h": 50
+  },
+  {
+   "id": 10,
+   "report_id": 10,
+   "moderator_id": "00000000-0000-4000-8000-000000000022",
+   "resultado": "descartado",
+   "nota": "No es spam.",
+   "created_h": 60
+  }
+ ],
+ "appeals": [
+  {
+   "id": 1,
+   "resolution_id": 2,
+   "apelante_id": "00000000-0000-4000-8000-000000000006",
+   "texto": "Pido que revisen, era un precio normal.",
+   "estado": "mantenida",
+   "resuelta_por": "00000000-0000-4000-8000-000000000022",
+   "created_h": 600,
+   "resolved_h": 580
+  },
+  {
+   "id": 2,
+   "resolution_id": 3,
+   "apelante_id": "00000000-0000-4000-8000-000000000015",
+   "texto": "Los datos eran míos, no de otra persona.",
+   "estado": "revertida",
+   "resuelta_por": "00000000-0000-4000-8000-000000000023",
+   "created_h": 570,
+   "resolved_h": 540
+  },
+  {
+   "id": 3,
+   "resolution_id": 8,
+   "apelante_id": "00000000-0000-4000-8000-000000000019",
+   "texto": "Era un juego de mesa, no entiendo por qué no se puede.",
+   "estado": "pendiente",
+   "resuelta_por": null,
+   "created_h": 250,
+   "resolved_h": null
+  }
+ ],
+ "ban_in_h": {
+  "00000000-0000-4000-8000-000000000016": 22
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "4techan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "4TEChan: foro an\u00f3nimo de la E.E.S.T. N\u00b01 (primera versi\u00f3n)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "seed": "python3 tools/gen_seed.py"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0",
+    "vue": "^3.5.45",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.11",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  }
+}
